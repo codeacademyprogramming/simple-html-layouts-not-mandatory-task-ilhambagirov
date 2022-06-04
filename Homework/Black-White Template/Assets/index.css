@@ -1,0 +1,51 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.navigation{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sec1{
+    width: 900px;
+    overflow: hidden;
+    margin :0 auto;
+    padding: 0 20px;
+    background: #FFF;
+}
+.navigation ul{
+    font-size: 30px;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.navigation li a{
+    color: white;
+}
+.navigation li{
+    color: white;
+    display: inline;
+    margin-left:  25px;
+    padding: 0;
+    margin-bottom: 0;
+    font: normal .80em 'trebuchet ms', arial, sans-serif;
+}
+li{
+    margin-top: 5px;
+}
+.maindiv{
+    float: left;
+    width: 610px;
+    
+    
+}
+
+.sidediv{
+    float: right;
+    width: 210px;
+    padding: 0 15px 20px 15px;
+}
+

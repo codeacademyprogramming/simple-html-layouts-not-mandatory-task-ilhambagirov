@@ -1,0 +1,30 @@
+.maindiv{
+    display: inline-block;
+    width: 610px;
+    text-align: justify;
+    padding-right: 25px;
+    vertical-align: top;
+}
+
+.sidediv{
+    display: inline-block;
+    width: 250px;
+}
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.sec1{
+    width: 900px;
+    margin :0 auto;
+    padding: 0 20px;
+    background: #FFF;
+}
+
+article{
+    margin-bottom:20px;
+}
